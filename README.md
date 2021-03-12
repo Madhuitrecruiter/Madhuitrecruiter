@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Madhu IT Recruiter
 - 👀 I’m interested in ...New Technology
 - 🌱 I’m currently learning ...Recruitment strategy
-- 💞️ I’m looking to collaborate on ...
+- 💞️ Looking for Android contributor ...
 - 📫 How to reach me ...Drop a mail to madhu.k1@huawei.com
 
 
